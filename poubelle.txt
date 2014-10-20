@@ -1,0 +1,7 @@
+	<footer> 
+		TPE - 2014 / 2015 - Lycee Rabelais <br/>
+		Téofil <span class="nom">Adamski</span>,
+		Samy <span class="nom">Plat</span>,
+		Clément <span class="nom">Bidault</span>,
+		et Rémi <span class="nom">Bruyère</span>
+	</footer>
